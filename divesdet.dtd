@@ -1,0 +1,19 @@
+<!ELEMENT divelogs (entry*)>
+<!ELEMENT entry (date,time,location,state,country,site,gps,operator,duration,depth,sighting*,notes)>
+<!ATTLIST entry number ID #REQUIRED>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT site (#PCDATA)>
+<!ELEMENT gps (latitude,longitude)>
+<!ELEMENT latitude (#PCDATA)>
+<!ELEMENT longitude (#PCDATA)>
+<!ELEMENT operator (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ATTLIST duration unit NMTOKEN "minutes">
+<!ELEMENT depth (#PCDATA)>
+<!ATTLIST depth unit NMTOKEN "meters">
+<!ELEMENT sighting (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>

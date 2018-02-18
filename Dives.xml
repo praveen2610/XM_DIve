@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ <!--<?xml-stylesheet type="text/xsl" href="q1.xsl"?>-->
+ <!--<?xml-stylesheet type="text/xsl" href="q2.xsl"?>-->
+ <?xml-stylesheet type="text/xsl" href="q3.xsl"?>
+ 
+<!DOCTYPE divelogs SYSTEM "divesdet.dtd">
+
+<divelogs>
+  <entry number="dive40">
+    <date>01/08/2015</date>
+    <time>07:49</time>
+    <location>Terrigal Beach</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>Skillon cave</site>
+    <gps><latitude>-33.4496</latitude><longitude>151.452</longitude></gps>
+    <operator>Terrigal Dive Centre</operator>
+    <duration unit='minutes'>51</duration>
+    <depth unit='meters'>19.0</depth>
+    <sighting>Grey nurse shark</sighting>
+    <sighting>Port Jackson shark</sighting>
+    <sighting>Nudibranch</sighting>
+    <sighting>Shrimps</sighting>
+    <sighting>Blue groper</sighting>
+    <notes></notes>
+  </entry>
+
+  <entry number="dive39">
+    <date>11/07/2015</date>
+    <time>09:35</time>
+    <location>Sydney</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>The Colours</site>
+    <gps><latitude>-33.84875</latitude><longitude>151.29325</longitude></gps>
+    <operator>RUC</operator>
+    <duration unit='minutes'>42</duration>
+    <depth unit='meters'>26.0</depth>
+    <sighting>One/spot puller</sighting>
+    <sighting>Biscuit starfish</sighting>
+    <sighting>Blue dragon</sighting>
+    <notes></notes>
+  </entry>
+
+  <entry number="dive38">
+    <date>04/07/2015</date>
+    <time>08:44</time>
+    <location>Manly</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>Fairy Bower</site>
+    <gps><latitude>-33.8007253683</latitude><longitude>151.293754578</longitude></gps>
+    <operator>RUC</operator>
+    <duration unit='minutes'>78</duration>
+    <depth unit='meters'>8.0</depth>
+    <sighting>Blue goper</sighting>
+    <sighting>Old wives</sighting>
+    <sighting>Estuary catfish</sighting>
+    <sighting>Cobbler</sighting>
+    <notes></notes>
+  </entry>
+
+  <entry number="dive37">
+    <date>07/06/2015</date>
+    <time>12:03</time>
+    <location>Nelson Bay</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>Cabbage Tree Island</site>
+    <gps><latitude>-32.6838860988</latitude><longitude>152.220640182</longitude></gps>
+    <operator>Ryde Underwater Club</operator>
+    <duration unit='minutes'>43</duration>
+    <depth unit='meters'>15.0</depth>
+    <sighting>Red Indian</sighting>
+    <sighting>Octopus</sighting>
+    <sighting>Mourning cuttle</sighting>
+    <notes></notes>
+  </entry>
+
+  <entry number="dive36">
+    <date>07/06/2015</date>
+    <time>10:09</time>
+    <location>Nelson Bay</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>SS Oakland</site>
+    <gps><latitude>-32.6784</latitude><longitude>152.2344</longitude></gps>
+    <operator>Ryde Underwater Club</operator>
+    <duration unit='minutes'>37</duration>
+    <depth unit='meters'>28.0</depth>
+    <sighting>Boxfish</sighting>
+    <sighting>Tesselated Wobbegong</sighting>
+    <sighting>Fortesque</sighting>
+    <notes>Gorgeous weather, fantastic wreck dive.</notes>
+  </entry>
+
+  <entry number="dive35">
+    <date>06/06/2015</date>
+    <time>09:50</time>
+    <location>Nelson Bay</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>Cabbage Tree Island</site>
+    <gps><latitude>-32.6838860988</latitude><longitude>152.220640182</longitude></gps>
+    <operator>Ryde Underwater Club</operator>
+    <duration unit='minutes'>66</duration>
+    <depth unit='meters'>15.0</depth>
+    <sighting>Port Jackson shark</sighting>
+    <sighting>Tasselled wobbegong</sighting>
+    <notes></notes>
+  </entry>
+
+  <entry number="dive34">
+    <date>30/05/2015</date>
+    <time>09:02</time>
+    <location>Sydney</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>Fairy Bower</site>
+    <gps><latitude>-33.8007253683</latitude><longitude>151.293754578</longitude></gps>
+    <operator>Ryde Underwater Club</operator>
+    <duration unit='minutes'>102</duration>
+    <depth unit='meters'>7.0</depth>
+    <sighting>Cobbler</sighting>
+    <sighting>Moorish idol</sighting>
+    <sighting>Old wife</sighting>
+    <notes>Not very good visibility, but there was gorgeous sunlight and great variety of fish life.</notes>
+  </entry>
+
+  <entry number="dive33">
+    <date>09/05/2015</date>
+    <time>10:21</time>
+    <location>Botany Bay</location>
+    <state>New South Wales</state>
+    <country>Australia</country>
+    <site>Magic Point</site>
+    <gps><latitude>-33.9571724555</latitude><longitude>151.266031265</longitude></gps>
+    <operator>Ryde Underwater Club</operator>
+    <duration unit='minutes'>54</duration>
+    <depth unit='meters'>19.0</depth>
+    <sighting>Grey nurse shark</sighting>
+    <notes>Great dive, with about 8 grey nurse sharks in the first cave, and swirling shoals of small fish by the cave entrance.</notes>
+  </entry>
+
+</divelogs>

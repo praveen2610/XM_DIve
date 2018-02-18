@@ -1,0 +1,32 @@
+ 
+1. What were the dates of all the dives in the site Fairy Bower?
+
+
+//entry[site='Fairy Bower']/date
+
+
+
+2. What were the sightings of dive number 38?
+
+
+//entry[@number='dive38']/sighting
+
+
+
+
+3.What are the numbers of the dives that have a depth of over 20 metres?
+
+//entry[depth>20]/@number
+ 
+
+
+4. What are the numbers of the dives that have a sighting of a Blue groper?
+
+
+//entry[sighting='Blue groper']/@number
+ 
+
+5. What are the dates of the dives under the operator Ryde Underwater Club that have more than two sightings?
+
+ 
+//entry[operator='Ryde Underwater Club' and count(sighting)>2]/date
